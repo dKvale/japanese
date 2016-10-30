@@ -1,0 +1,2 @@
+romanji,　　,
+Color,Iro,いろ,
