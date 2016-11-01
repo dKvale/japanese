@@ -1,13 +1,24 @@
 english,romaji,yomigana,kanji
-Hospital,Byouin,びょういん,病院
-Police station,Keisatsusho,けいさつしょ,警察署	
+Hospital,Byōin,びょういん,病院
+Police station,Keisatsusho,けいさつしょ,警察署
+Police box,Kōban,こうばん,交番	
 Fire station,Shoubousho,しょうぼうしょ,消防署	
 Post office,Yuubinkyoku,ゆうびんきょく,郵便局		
 School,Gakkou,がっこう,学校		
 House,Juutaku,じゅうたく,住宅			
 Book store,Honya,ほんや,本屋		
-Department store,depaato,デパート,	
+Department store,Depāto,デパート,	
 Library,Toshokan,としょかん,図書館
 Bank,Ginkou,ぎんこう,銀行
 Restaurant,Resutoran,レストラン,
 Hotel,Hoteru,ホテル,
+Park,Kōen,こうえん,
+Art Museum,Bijutsukan,びじゅつかん,
+Museum,Hakubutsukan,はくぶつかん,
+Airport,Kūkō,くうこう,
+Port,Minato,みなと,港
+Beauty / Hair Salon,Biyōin,びよういん,美容院
+School,Gakkō,がっこう,学校
+Elementary school,Shōgakkō,しょうがっこう,学校
+Junior high school,Chūgakkō,ちゅうがっこう,中学校
+Senior High School,Kūkū,こうこう,高校
