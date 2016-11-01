@@ -12,6 +12,8 @@ Library,Toshokan,としょかん,図書館
 Bank,Ginkou,ぎんこう,銀行
 Restaurant,Resutoran,レストラン,
 Hotel,Hoteru,ホテル,
+Japanese hotel / Inn,Ryokan,りょかん,旅館
+Hostel / dormitory,Ryou,りょう,寮 	 	
 Park,Kōen,こうえん,
 Art Museum,Bijutsukan,びじゅつかん,
 Museum,Hakubutsukan,はくぶつかん,
@@ -26,3 +28,12 @@ Shrine,Jinja,じんじゃ,神社
 Fish shop,Sakanaya,さかなや,魚屋
 Barbershop,Tokoya,とこや,床屋
 Bakery,Panya,パンや,パン屋
+Bar / Pub,Izakaya,いざかや,居酒屋
+Movie theater,Eigakan,えいがかん,映画館
+Fruit and vegetable shop,Yaoya,やおや,八百屋
+Pharmacy,Kusuriya,くすりや,薬屋
+Neighborhood,Kinjo,きんじょ,近所 	 		
+Shop,Mise,みせ,店
+University,Daigaku,だいがく,大学
+Kindergarten,Yōchien,ようちえん,幼稚園 			
+Apartment,Apa-to,アパート, 		
